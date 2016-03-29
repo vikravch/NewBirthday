@@ -1,0 +1,41 @@
+<resources>
+    <!-- System strings -->
+    <string name="app_name">BirthdayApplication</string>
+
+    <!-- UI strings from activities -->
+    <string name="empty_user">Users not found</string>
+    <string name="tvLabFeedName">Name</string>
+    <string name="tvLabFeedEmail">Email</string>
+    <string name="tvLabFeedMessage">Massage</string>
+    <string name="button_send_feedback">Send</string>
+    <string name="users_tab_title">Users</string>
+    <string name="empty_tab_title">Empty</string>
+    <string name="feedback_tab_title">Feedback</string>
+    <string name="empty_text">Empty</string>
+    <string name="dialog_load_title">Loading users</string>
+    <string name="dialog_load_text">Loading...</string>
+    <string name="registration_menu_title">Registration</string>
+    <string name="tvLabFeedPassword">Password</string>
+    <string name="tvNameUserItem">Name</string>
+    <string name="tvSurnameUserItem">Surname</string>
+    <string name="tvDateBirthdayUserItem">Date Birthday</string>
+    <string name="tvIsLeftDaysUserItem">Is Left</string>
+    <string name="tvYearUserItem">18</string>
+    <string name="log_in">Log in</string>
+    <string name="emty_base_request_text">Empty database!</string>
+    <string name="success_registry_request_text">Registration success!</string>
+    <string name="error_registration_request_text">Registration error</string>
+    <string name="already_created_request_text">User is already created</string>
+    <string name="emil_used_request_text">Email is already used</string>
+    <string name="login_success_request_text">Login success</string>
+    <string name="login_error_request_text">Error login</string>
+    <string name="log_out">Log out</string>
+    <string name="base_update_request_text">Base updated</string>
+    <string name="tvLabFeedFirstName">First name</string>
+    <string name="tvLabFeedLastName">Last name</string>
+    <string name="tvLabFeedBirthdayUserEdit">Birthday</string>
+    <string name="tvLabEmailUserEdit">Email</string>
+    <string name="update_list">Update list</string>
+
+
+</resources>
