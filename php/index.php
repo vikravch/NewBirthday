@@ -8,7 +8,7 @@ class UserManager {
 	public function getOneUser($id){
 		$serverName = "mysql.hostinger.com.ua";
 		$userName = "u374069841_admin";
-		$password = "123454321";
+		$password = "---------";
 		$dbName = "u374069841_users";
 		$tableName = "users";
 		$connection = new mysqli($serverName, $userName, $password, $dbName);
